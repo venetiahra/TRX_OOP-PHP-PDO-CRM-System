@@ -1,0 +1,32 @@
+.brand-logo-img {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  display: block;
+}
+.brand-logo-img-lg {
+  width: 84px;
+  height: 84px;
+  object-fit: contain;
+  display: block;
+}
+.brand-logo-header {
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+.login-logo-wrap {
+  margin-bottom: 1rem;
+}
+.profile-logo-chip {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  display: block;
+}
+.favicon-note {
+  color: var(--muted);
+  font-size: .86rem;
+}
